@@ -101,6 +101,7 @@ form{
   .btn{
     position: relative;
     margin: 20px auto;
+    text-align: center;
   }
   .svg {display: none;}
    form{margin-left: 6vw;}
