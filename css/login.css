@@ -103,6 +103,7 @@ form{
     margin: 20px auto;
   }
   .svg {display: none;}
+   form{margin-left: 6vw;}
 }
 
 @media only screen and (max-width: 400px){
@@ -110,4 +111,5 @@ form{
   p{font-size: 1rem;}
   .btn{font-size: 1.2rem;}
   .login{max-width: 250px;width: 80%;padding: 20px 10px;}
+ 
 }
